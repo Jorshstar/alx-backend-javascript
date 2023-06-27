@@ -3,5 +3,5 @@ function getResponseFromAPI() {
         resolve();
         reject();
     });
-};
+}
 export default getResponseFromAPI;
